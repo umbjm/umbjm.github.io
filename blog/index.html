@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Blog
-subtitle: what I'm writing..
+subtitle: UMBJM development notes..
 ---
 
 <section class="post-list">
@@ -20,11 +20,11 @@ subtitle: what I'm writing..
       <header>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <h1 class="post-title">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         </h1>
       </header>
 
-      <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to: {{ post.title }}" class="read-more">Read more</a></p>
+      <p>{{ post.content | strip_html | truncatewords: 56 }} <a href="{{ post.url }}" title="Permalink to: {{ post.url }}" class="read-more">Read more</a></p>
     </article>
   {% endfor %}
 
