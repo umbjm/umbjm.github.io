@@ -24,7 +24,7 @@ keywords: "Development, code, umbjm, universitas muhammadiyah banjarmasin, Infor
 
 # Site settings
 url: http://nandomoreira.me
-baseurl: ""
+baseurl: "/"
 # baseurl: ""
 
 # Author settings
