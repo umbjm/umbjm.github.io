@@ -1,8 +1,0 @@
----
-layout: post
-title: "Git Intro"
-permalink: "git-intro"
-date: 2016-10-21 10:19
-categories:
----
-
