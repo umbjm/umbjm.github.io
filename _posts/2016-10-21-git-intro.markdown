@@ -6,7 +6,7 @@ date: 2016-10-21 10:26
 categories:
 ---
 
-Keynote tanggal 14 Oktober 2016 oleh [muslih](http://muslih.me), bisa di download di [https://github.com/umbjm/keynotes](https://github.com/umbjm/keynotes) beserta demo git branch yang ada di presentasi.
+Keynote tanggal 14 Oktober 2016 oleh [muslih](http://muslih.me), resource bisa di download di [github](https://github.com/umbjm/keynotes/tree/master/14-10-2016-git-intro-muslih) lengkap beserta demo git branch yang ada di presentasi.
 
 <script async class="speakerdeck-embed" data-id="61b323a605564e198b48a33c6807d88a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
