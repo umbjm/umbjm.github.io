@@ -12,9 +12,12 @@ sass:
 
 # permalink and highlighter
 permalink   : /:year/:title/
-markdown    : kramdown
+# markdown    : kramdown
+markdown: redcarpet
+
 # highlighter : pygments
 highlighter: rouge
+
 
 # SEO settings
 title: Dev UMBJM
