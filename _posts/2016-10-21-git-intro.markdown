@@ -10,5 +10,9 @@ Keynote tanggal 14 Oktober 2016 oleh [muslih](http://muslih.me), resource bisa d
 
 <script async class="speakerdeck-embed" data-id="61b323a605564e198b48a33c6807d88a" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-
+```css
+body{
+  color:red;
+}
+```
 
